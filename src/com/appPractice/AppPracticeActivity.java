@@ -22,6 +22,7 @@ public class AppPracticeActivity extends Activity {
 				// TODO Auto-generated method stub
 				Intent intent = new Intent(AppPracticeActivity.this, SecondActivity.class);
 				startActivity(intent);
+				//what if i add a comment here
 				
 			}
 		});
